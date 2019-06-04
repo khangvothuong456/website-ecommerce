@@ -1,0 +1,5 @@
+body{position:relative;z-index:0;top:0;left:0;width:100%;height:100%;background:#f2f2f2}
+/*===== header =====*/
+.app-header-top > .container{border-bottom:1px solid #dedede;color:#222;font-size:14px}
+.app-header-top__right a{text-decoration:none;color:#222}
+.app-header-top__right a:hover{transition:300ms ease;color:var(--primary)}
